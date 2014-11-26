@@ -1,5 +1,6 @@
 Data-Tag
 ====
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/KodeKracker/data-tag?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Data-Tag is an evolved system to classify textual data and web pages using NLP techniques, rather than not so intelligent Keyword-based Tagging. It uses [NLTK](http://www.nltk.org/) to categorize data tokens into various "Word-Classes" and then using Open Data from [Wikipedia](http://www.mediawiki.org/wiki/API:Main_page) applies [Word-Sense Disambiguation](http://en.wikipedia.org/wiki/Word-sense_disambiguation) algorithm to "smartly" tag the input data.
 
